@@ -1,0 +1,9 @@
+.exportButton {
+  margin-bottom: 1rem;
+}
+
+@media print {
+  .exportButton {
+    display: none !important;
+  }
+}
